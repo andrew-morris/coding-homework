@@ -26,7 +26,7 @@ and solve the following challenges:
 
 * How many files are on my computer?
 * What are the top 10 posts on reddit?
-* Build a simple reverse command shell
+* 
 
 # Language Requirements
 
@@ -42,3 +42,9 @@ and solve the following challenges:
 * Read multiple files to stdout
 * Output errors to stderr
 
+## ls
+
+* At minimum: handle multiple paths or files
+* Extra credit: Include an option to show hidden files
+* Extra credit: Include an option to show exact file size
+* Extra credit: Include an option to show file size in human
