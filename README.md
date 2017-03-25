@@ -27,6 +27,10 @@ and solve the following challenges:
 * How many files are on my computer?
 * What are the top 10 posts on reddit?
 
+# General Requirements
+
+* Do not use any third party libraries
+
 # Language Requirements
 
 ## Python
@@ -47,3 +51,4 @@ and solve the following challenges:
 * Extra credit: Include an option to show hidden files
 * Extra credit: Include an option to show exact file size
 * Extra credit: Include an option to show file size in human
+* Extra credit: Implement separate terminal colors for files and directories
