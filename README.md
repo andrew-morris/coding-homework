@@ -26,7 +26,6 @@ and solve the following challenges:
 
 * How many files are on my computer?
 * What are the top 10 posts on reddit?
-* 
 
 # Language Requirements
 
