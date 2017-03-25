@@ -13,7 +13,7 @@ def readFile(filename):
         return
     
     except Exception as e:
-        sys.stderr.write('[+] Error: %s' % str(e))
+        sys.stderr.write('%s\n' % str(e))
         pass
 
 def main():
