@@ -10,6 +10,8 @@ def readFile(filename):
         data = f.read()
         sys.stdout.write(data)
         f.close()
+        return
+    
     except Exception as e:
         sys.stderr.write('[+] Error: %s' % str(e))
         pass
