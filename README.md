@@ -21,6 +21,7 @@ in the following languages:
 * Ruby
 * Node
 * Erlang
+* Swift
 
 and solve the following challenges:
 
