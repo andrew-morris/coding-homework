@@ -7,6 +7,13 @@ import sys
 
 def main():
     
+    # Figure out if we're grepping a file or stdin
+    if sys.stdin.read():
+        print('stdin detected')
+    else:
+        print('stdin not detected')
+
+    sys.exit()
     arg = sys.argv[1]
     
     stdin = sys.stdin.read()
