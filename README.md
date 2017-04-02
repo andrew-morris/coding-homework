@@ -42,14 +42,21 @@ and solve the following challenges:
 
 ## cat
 
-* Read a file to stdout
-* Read multiple files to stdout
-* Output errors to stderr
+* At minimum: Read a file to stdout
+* At minimum: Read multiple files to stdout
+* At minimum: Output errors to stderr
 
 ## ls
 
-* At minimum: handle multiple paths or files
+* At minimum: Handle multiple paths or files
 * Extra credit: Include an option to show hidden files
 * Extra credit: Include an option to show exact file size
 * Extra credit: Include an option to show file size in human
 * Extra credit: Implement separate terminal colors for files and directories
+
+## grep
+
+* At minimum: Read lines from a file and return lines that include a keyword
+* Extra credit: Implement case-insensitivity flag
+* Extra credit: Implement -v (ignore) flag
+* Extra credit: Optionally apply keyword to stdin as well as a file
