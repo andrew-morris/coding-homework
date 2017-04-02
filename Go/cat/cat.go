@@ -4,6 +4,9 @@ import "fmt"
 import "os"
 import "io/ioutil"
 
+//TODO: Add support for multiple files
+//TOOD: Less disgusting errors
+
 func check(e error) {
     if e != nil {
         panic(e)
