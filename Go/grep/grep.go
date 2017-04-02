@@ -7,6 +7,11 @@ import (
 	"io/ioutil"
 )
 
+//TODO: Implement usage
+//TODO: Allow for stdin or reading from file
+//TODO: Add option for case-insensitivity
+//TODO: Get rid of newline at the end of a file
+//TODO: Add -v (ignore) option
 
 func check(e error) {
     if e != nil {
