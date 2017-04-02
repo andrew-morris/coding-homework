@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 )
 
-//TODO: Implement usage
+//TODO: Implement proper usage
 //TODO: Allow for stdin or reading from file
 //TODO: Add option for case-insensitivity
 //TODO: Get rid of newline at the end of a file
@@ -36,5 +36,8 @@ func main() {
         argFilename := os.Args[2]
         argKeyword := os.Args[1]
         grepFile(argFilename, argKeyword)
+    } else {
+        fmt.Println("grep <keyword> <filename>")
+        fmt.Println("grep /etc/passwd root")
     }
 }
