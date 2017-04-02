@@ -46,6 +46,20 @@ and solve the following challenges:
 * At minimum: Read multiple files to stdout
 * At minimum: Output errors to stderr
 
+## head
+
+* At minimum: Read the first 10 lines of a file
+* Extra credit: Read the first 10 lines of stdin
+* Extra credit: Implement an option to define how many lines to read
+* Extra credit: Implement an option to read bytes instead of lines
+
+## tail
+
+* At minimum: Read the last 10 lines of a file
+* Extra credit: Read the last 10 lines of stdin
+* Extra credit: Implement an option to define how many lines to read
+* Extra credit: Implement an option to read bytes instead of lines
+
 ## ls
 
 * At minimum: Handle multiple paths or files
