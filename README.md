@@ -13,6 +13,7 @@ in the following languages:
 
 * Python
 * C
+* C++
 * Go
 * OCaml
 * Haskell
@@ -22,6 +23,7 @@ in the following languages:
 * Node
 * Erlang
 * Swift
+* Lisp
 
 and solve the following challenges:
 
