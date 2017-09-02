@@ -52,6 +52,7 @@ and solve the following challenges:
 * Extra credit: Read the first 10 lines of stdin
 * Extra credit: Implement an option to define how many lines to read
 * Extra credit: Implement an option to read bytes instead of lines
+* Extra credit: Don't read the entire file
 
 ## tail
 
@@ -59,6 +60,7 @@ and solve the following challenges:
 * Extra credit: Read the last 10 lines of stdin
 * Extra credit: Implement an option to define how many lines to read
 * Extra credit: Implement an option to read bytes instead of lines
+* Extra credit: Don't read the entire file
 
 ## ls
 
