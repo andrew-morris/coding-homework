@@ -33,6 +33,7 @@ and solve the following challenges:
 # General Requirements
 
 * Do not use any third party libraries
+* Package an installer for each program in the language's native package manager (e.g. npm, pypi, etc) // SHOUT OUT [@schep_](https://twitter.com/schep_)
 
 # Language Requirements
 
