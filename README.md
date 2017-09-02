@@ -20,7 +20,7 @@ in the following languages:
 * Rust
 * Elixer
 * Ruby
-* Node
+* Node.js
 * Erlang
 * Swift
 * Lisp
